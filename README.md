@@ -34,6 +34,17 @@ Enjoy a quick preview of the app:
   <img src="https://res.cloudinary.com/attar-shop/image/upload/v1693743326/bi5ztrp9z121ihplxvib.jpg" alt="Screenshot 4" width="200" height="auto" style="border: 1px solid #000; padding: 10px;">
 <div/>
 
-  
+## 📷 Demo
+
+**Interactive Demo:**
+
+You can interact with the app using Expo. Click the link below or scan the QR code with your Expo app to try it out:
+
+- [Open in Expo](exp://exp.host/@ifeelpankaj/Shades)
+
+**Scan this QR code with your Expo app:**
+
+![Expo QR Code](https://api.qrserver.com/v1/create-qr-code/?data=exp%3A%2F%2Fexp.host%2F%40ifeelpankaj%2FShades&size=150x150&color=007acc)
+
 
 Build your dynamic web application with this powerful tech stack! 🚀
