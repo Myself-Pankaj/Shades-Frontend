@@ -48,4 +48,4 @@ Enjoy a quick preview of the app:
 
 
 
-Build your dynamic web application with this powerful tech stack! 🚀
+Build your dynamic application with this powerful tech stack! 🚀
