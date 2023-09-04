@@ -1,4 +1,4 @@
-# Shades-Frontend
+# Shades
 
 This is the frontend of a React Native app for managing shades. It connects to a Node.js Express.js backend and uses Cloudinary for image storage. The app features OTP-based user authentication.
 
