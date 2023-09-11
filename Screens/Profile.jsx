@@ -146,9 +146,9 @@ const Profile = ({ navigation, route }) => {
                 {posts && posts.length > 0 ? (
                   <View style={styles.bar}>
                     <ScrollView>
-                      {posts.map((item) => (
+                      {posts.map((item,index) => (
                         <Post
-                          key={item._id}
+                        key={index}
                           postId={item._id}
                           caption={item.caption}
                           postImage={item.image.url}
